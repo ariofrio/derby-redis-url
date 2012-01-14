@@ -1,0 +1,7 @@
+{
+  "name": "derby-redis-url",
+  "version": "0.0.1",
+  "description": "Use a REDIS_URL to generate a redis object that derby.createStore accepts",
+  "author": "Andres Riofrio <riofrios@gmail.com>",
+  "main": "./index.js"
+}
