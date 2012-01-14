@@ -1,7 +1,12 @@
 {
   "name": "derby-redis-url",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Use a REDIS_URL to generate a redis object that derby.createStore accepts",
   "author": "Andres Riofrio <riofrios@gmail.com>",
-  "main": "./index.js"
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ariofrio/derby-redis-url"
+  },
+  "homepage": "https://github.com/ariofrio/derby-redis-url"
 }
