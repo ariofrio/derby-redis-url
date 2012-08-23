@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/ariofrio/derby-redis-url.png)](http://travis-ci.org/ariofrio/derby-redis-url)
 Use a `REDIS_URL` to generate a redis object that [derby][].[createStore][] accepts
 
   [derby]: https://github.com/codeparty/derby
